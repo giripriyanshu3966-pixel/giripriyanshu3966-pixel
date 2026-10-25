@@ -134,10 +134,13 @@ me.say_hi()
 </p>
 
 ---
+## 🏆 GitHub Achievements
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giripriyanshu3966-pixel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giripriyanshu3966-pixel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
+---
 
 ---
 ---
