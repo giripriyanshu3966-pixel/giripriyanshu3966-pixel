@@ -151,6 +151,17 @@ me.say_hi()
 ---
 ---
 
+## 🧩 LeetCode Dashboard
+
+<p align="center">
+  <a href="https://leetcode.com/u/mr_giri/">
+    <img src="https://leetcard.jacoblin.cool/mr_giri?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+---
+
 ## 🌐 Find Me Online
 
 <p align="center">
