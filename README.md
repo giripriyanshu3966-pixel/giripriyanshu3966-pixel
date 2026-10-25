@@ -11,6 +11,29 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Exploring+AI+%26+Automation;Learning+Full-Stack+Development;Always+Building+Something+New" alt="Typing SVG" />
 </p>
+<h2>🚀 About Me</h2>
+
+```python
+class PriyanshuGiri:
+    def __init__(self):
+        self.name = "Priyanshu Giri"
+        self.role = "B.Tech IT Student"
+        self.college = "AKGEC, Ghaziabad"
+        self.interests = [
+            "Software Development",
+            "Full-Stack Development",
+            "AI & Automation"
+        ]
+        self.languages = ["Python", "JavaScript"]
+        self.tools = ["React", "Git", "GitHub", "SQL"]
+        self.currently_learning = "Building better projects"
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile!")
+
+me = PriyanshuGiri()
+me.say_hi()
+```
 
 <p align="center">
   <a href="https://github.com/giripriy​​anshu3966-pixel">
