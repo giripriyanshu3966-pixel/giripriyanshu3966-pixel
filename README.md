@@ -138,15 +138,14 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giripriy​​anshu3966-pixel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=giripriy​​anshu3966-pixel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
-
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giripriy​​anshu3966-pixel&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giripriy​​anshu3966-pixel&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
